@@ -1,0 +1,59 @@
+﻿#myHomeFont {
+    font-family: 'Allura', cursive;
+    text-transform: none;
+    font-size: 70px;
+}
+
+.marginTB h4 {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.float {
+    float: left;
+}
+
+.ExOneMarg {
+    margin-top: 20px;
+}
+
+.ExOneMarg1 {
+    margin-top: 25px;
+}
+
+.ModalTwoImg {
+    width: 100%;
+    max-height: 80px;
+}
+
+/* ALARM */
+#MKCclock {
+    height: 40px;
+    font-size: 30px;
+    font-family: arial;
+    font-weight: bold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.MKCh2 {
+    text-align: center;
+}
+
+#MKCalarm-container {
+    text-align: center;
+    font-family: Verdana;
+    font-size: 0.6em;
+    padding: 0.7em;
+}
+
+.MKCcenter {
+    text-align: "center";
+    justify-content: center;
+    align-items: center;
+}
+
+.alarmfontsz {
+    font-size: 12px;
+}
