@@ -501,9 +501,8 @@
     <Content Include="Content\bootstrap-reboot.css.map" />
     <Content Include="Content\bootstrap-grid.min.css.map" />
     <Content Include="Content\bootstrap-grid.css.map" />
-    <Content Include="Documents\MKCDev_Resume.pdf" />
     <Content Include="private.config" />
-    <Content Include="Documents\MKC Resume 5L.pdf" />
+    <Content Include="Documents\MCombs-DevResume_wPhoto.pdf" />
     <None Include="Properties\PublishProfiles\mcombs-mvcportfolio - FTP.pubxml" />
     <None Include="Properties\PublishProfiles\mcombs-mvcportfolio - Web Deploy.pubxml" />
     <None Include="Scripts\jquery-3.3.1.intellisense.js" />
